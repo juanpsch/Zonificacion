@@ -1,4 +1,4 @@
-# 🚀 Modelo de Clasificación Geoespacial para Usos del Suelo Urbano
+# 🚀 Modelo de Clasificación posicional por zonas o recintos de componentes de una planta nuclear
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9%2B-blue)
 
