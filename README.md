@@ -1,9 +1,6 @@
 # 🚀 Modelo de Clasificación Geoespacial para Usos del Suelo Urbano
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Geospatial Badge](https://img.shields.io/badge/Tecnolog%C3%ADa-GeoPandas-green)
-![ML Badge](https://img.shields.io/badge/Modelo-RandomForest-orange)
-![GIS Badge](https://img.shields.io/badge/Visualizaci%C3%B3n-Folium%2FMapbox-brightgreen)
 
 ## 💡 Resumen Ejecutivo (El Elevator Pitch)
 
