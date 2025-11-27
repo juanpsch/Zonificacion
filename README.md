@@ -12,7 +12,10 @@ Este proyecto aborda el desafío de **Sectorizar componentes de una Planta Nucle
 
 * **Definición de bounding boxes:** Se definen las zonas en las cuales se debe clasificar a los componentes
 
-* **Procesamiento de datos y asignación de zona a compoente:** Procesos determinísticos que ubican a cada compoente en su zona / recitno.
+* **Procesamiento de datos y asignación de zona a compoente:** Procesos determinísticos que ubican a cada compoente en su zona / recinto.
+
+* **Post-Procesamiento:** Se incluye informacióna adicional para agregar, como pesos de componentes o volumen. Esto permite obtener el peso o volumen en diferentes
+opciones de agregación de los datos.
 
 
 ## 📐 Arquitectura y Flujo de Trabajo
